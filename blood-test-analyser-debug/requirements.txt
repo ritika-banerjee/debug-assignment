@@ -1,0 +1,13 @@
+click
+crewai==0.130.0
+crewai-tools
+fastapi
+dotenv
+uvicorn
+google-generativeai
+pandas
+pillow
+langchain-community
+langchain
+crewai[tools]
+python-multipart
